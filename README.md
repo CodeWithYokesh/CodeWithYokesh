@@ -19,9 +19,9 @@
 
 ### 👨‍💻 About Me
 
-* **Past Role**: Data Analyst Intern @ **Indus TMT Limited** (Analyzing 100,000+ sales & inventory data points)[cite: 4, 6].
-* **Leadership**: General Secretary @ **Notion Community**, VIT Bhopal (Leading 700+ student members)[cite: 8, 10].
-* **Recognition**: Selected for **Institute Innovation Council (IIC)** among top 0.08% of student body[cite: 4, 6].
+* **Past Role**: Data Analyst Intern @ **Indus TMT Limited** (Analyzing 100,000+ sales & inventory data points)
+* **Leadership**: General Secretary @ **Notion Community**, VIT Bhopal (Leading 30+ core team & 700+ student members)
+* **Recognition**: Selected for **Institute Innovation Council (IIC)** among top 0.08% of student body.
 
 ---
 
