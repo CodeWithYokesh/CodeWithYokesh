@@ -80,6 +80,9 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithYokesh&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
+
+
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWithYokesh&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
@@ -87,3 +90,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/CodeWithYokesh/CodeWithYokesh/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
+
+
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+</div>
