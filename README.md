@@ -68,9 +68,8 @@
 
 ### 📜 Certifications & Honors
 
-* <b>Supply Chain Digitalization</b> — NPTEL[cite: 4, 6, 9, 11]
-* <b>Industrial Internet of Things (IIoT)</b> — Coursera[cite: 4, 6, 9, 11]
-* <b>Team Lead (Outreach)</b> — TEDxVITBhopal[cite: 4, 6, 8, 10]
+* <b>Supply Chain Digitalization</b> — NPTEL
+* <b>Industrial Internet of Things (IIoT)</b> — Coursera
 
 ---
 
